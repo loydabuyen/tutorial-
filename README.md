@@ -1,2 +1,2 @@
 # tutorial-
-this repo is use to demonstrate how to create a repo as a leader 
+this repo is use to demonstrate how to create a repo  
